@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Георгий\Programs\Project1\Project1\MyForm.h(32,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\Programs\Project1\Project1\MyForm.h(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Георгий\Programs\Project1\Debug\Project1.exe
